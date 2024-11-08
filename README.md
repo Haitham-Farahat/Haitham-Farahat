@@ -1,10 +1,10 @@
 <h1 align="left">Hey 👋 I'm Haitham Farahat</h1>
 
----
+
 
 <h3 align="left">I'm a Software Engineer & .NET Back-End Developer</h3>
 
----
+
 
 <h2 align="left">About Me</h2>
 
@@ -13,7 +13,6 @@ I am a Software Engineering student at Sohag University, specializing in back-en
 
 </p>
 
----
 
 <h2 align="left">Languages & Tools</h2>
 
@@ -29,7 +28,8 @@ I am a Software Engineering student at Sohag University, specializing in back-en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
-  <img width="12" />
+  <img width="12"
+ />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
@@ -37,7 +37,7 @@ I am a Software Engineering student at Sohag University, specializing in back-en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
 </div>
 
----
+
 
 <h2 align="left">Skills I've Acquired in My .NET Journey</h2>
 <p align="left">
@@ -54,7 +54,7 @@ I am a Software Engineering student at Sohag University, specializing in back-en
 
 
 
----
+
 
 <h2 align="left">Connect with Me</h2>
 
