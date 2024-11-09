@@ -2,8 +2,9 @@
 
 
 
-<h3 align="left">I'm a Software Engineer & .NET Back-End Developer</h3>
-
+<h3 align="left">
+    I'm a Junior .NET Back-End Developer, Software Engineer, CS Student, and Competitive Programmer
+</h3>
 
 
 <h2 align="left">About Me</h2>
