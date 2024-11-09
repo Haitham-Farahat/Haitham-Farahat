@@ -2,9 +2,9 @@
 
 
 
-<h4 align="left">
+<h3 align="left">
     I'm a Junior .NET Back-End Developer, Software Engineer, CS Student, and Competitive Programmer
-</h4>
+</h3>
 
 
 
