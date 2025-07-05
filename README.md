@@ -14,7 +14,7 @@ I am a Software Engineering student at Sohag University, specializing in back-en
 
 ---
 
-###  Languages & Tools
+<h2 align="left">Languages & Tools</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:50px; width:50px; margin-right:15px;" alt="C++" />
